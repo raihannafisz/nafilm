@@ -1,0 +1,62 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/images/bg/bg4.jpg");
+    background-size: cover;
+}
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.judul{
+    color: #FFFFFF;
+    text-shadow: 4px 3px 0px #7A7A7A;
+    color: #FFFFFF;
+}
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+.titles {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+    text-align: center; 
+}
+.trending {
+    height: auto;
+    background: url("../assets/images/bg/bg1.jpg");
+    background-size: cover;
+}
+.superhero {
+    height: auto;
+    background: url("../assets/images/bg/bg3.jpg");
+    background-size: cover;
+}
+.movieImage {
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+.images {
+    height: 500px;
+}
+.text-style {
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    color: #FFFFFF;
+}
+.text-page {
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    color: #FFFFFF;
+
+}
