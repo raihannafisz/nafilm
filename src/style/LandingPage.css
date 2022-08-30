@@ -31,12 +31,12 @@
 }
 .trending {
     height: auto;
-    background: url("../assets/images/bg/bg1.jpg");
+    background: url("../assets/images/bg/bg6.jpg");
     background-size: cover;
 }
 .superhero {
     height: auto;
-    background: url("../assets/images/bg/bg3.jpg");
+    background: url("../assets/images/bg/bg6.jpg");
     background-size: cover;
 }
 .movieImage {
